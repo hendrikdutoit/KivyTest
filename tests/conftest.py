@@ -3,7 +3,6 @@
 Define the fixture functions in this file to make them accessible across multiple test files.
 """
 
-
 from pathlib import Path
 import pytest
 from beetools.beearchiver import Archiver
